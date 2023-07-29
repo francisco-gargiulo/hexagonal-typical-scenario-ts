@@ -1,0 +1,19 @@
+{
+  "name": "hexagonal-typical-scenario-ts",
+  "version": "1.0.0",
+  "description": "This project provides an in-depth explanation of a TypeScript code example that demonstrates the hexagonal architecture.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "HexagonalArchitecture",
+    "TypeScript",
+    "Node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
